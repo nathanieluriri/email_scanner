@@ -1,0 +1,10 @@
+subject -                                action/task   
+from cr -                                store
+subject + AI -                           reason for breakdown
+subject + AI + AI -                      maintainance category 
+to -                                     responsible
+subject + AI -                           specific equipment
+AI +specific equipement + subject -      category
+sent -                                   request date
+
+                                         date shared by help desk
