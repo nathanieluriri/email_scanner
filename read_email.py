@@ -51,10 +51,7 @@ for email_id in email_ids:
             for i, thread in enumerate(threads, start=1):
                 threadss={}
                 print(f"Thread {i}: ")
-                # subject_match = re.findall(subject_pattern, thread, re.DOTALL)
-                # print(subject_match)
-                
-                
+  
                 from_match = re.search(from_pattern, thread)
                 to_match = re.search(to_pattern, thread)
                 sent_match = re.search(sent_pattern, thread)
@@ -70,9 +67,7 @@ for email_id in email_ids:
                 except:
                     pass
                 threadss["thread_index"]= i
-                
-                
-                # email_content.append(threadss)
+
                 thread_group_list.append(threadss)
                 
                 
