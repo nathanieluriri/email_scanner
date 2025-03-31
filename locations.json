@@ -1,0 +1,926 @@
+[
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, AJAH",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, AJOSE ADEOGUN",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, AKOWONJO",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, BODE THOMAS",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, DOMINO E-CENTRE",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, FESTAC",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, AWOLOWO",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, ILUPEJU",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, IRE-AKARI",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, JIBOWU",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, ETERNA LEKKI",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, IKEJA MALL",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, MARINA",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, OGUDU",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, OKE-AFA",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, OKOTA",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, OMOLE",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, OPEBI",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, ENTOURAGE MALL",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, LEKKI PHASE 1",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "ABUJA, AMINU KANO",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "ABUJA, ADETOKUNBO ADEMOLA",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "ABUJA, AREA 8",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "ABUJA, KUBWA",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "ABUJA, GWARIMPA",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "KADUNA, YAKUBU GOWON",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "NASSARAWA, NYANYA",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "ABUJA, OANDO ZONE 6",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "KADUNA, ZARIA",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "KADUNA, BARNAWA",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "EDO, AIRPORT RD, BENIN",
+        "number_of_commas": 2
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "EDO, UGBOWO, BENIN",
+        "number_of_commas": 2
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "PH, TRANS AMADI",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "PH, RUMUBIAKANI",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "PH, ABACHA RD",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "IBADAN, RING-ROAD",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "IBADAN, CHALLENGE",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, TOTAL ONIGBAGBO",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "ABUJA, AMINU KANO DT",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "ILORIN, GRA",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, MMA2",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "PH, ABA",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, VGC",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, TEJUOSHO",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, ONIRU",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, ABULE EGBA",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "PH, GRA BIRABI",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "ILORIN, TAIWO RD",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "PH, DOX RD",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "ABUJA, GARKI",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "NIGER, SULEJA",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, GBAGADA",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, MAGODO",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "KANO, MM WAY",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, SKYMALL",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, AWOLOWO 2",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "KADUNA, CONSTITUTION RD",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, IDIMU",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "IBADAN, BODIJA",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": false,
+        "full_location_name": "PH AGGREY"
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, OSOLOWAY",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "KANO, AIRPORT RD",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, WAREHOUSE RD, APAPA",
+        "number_of_commas": 2
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "IBADAN, IDI-APE (IWO RD)",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, FREEDOMWAY",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "IBADAN, MOKOLA",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, IKORODU",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "ABUJA, LUGBE",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, NNPC ALAPERE",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": false,
+        "full_location_name": "LAG AHMADU BELLO WAY"
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "NIGER, BOSSO-MINNA",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, LATEEF JAKANDE",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "KADUNA, KACHIA RD",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "ABUJA, GADO NASKO, KUBWA 2",
+        "number_of_commas": 2
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "SOKOTO, BANK RD",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": false,
+        "full_location_name": "PH NTA ROAD"
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "PH, WOJI",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "ILORIN, MM WAY",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "NASSARAWA, LAFIA",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "AKWA IBOM, ORON RD",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "BAYELSA, YENAGOA",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "OSUN, GBONGAN",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "AKWA IBOM, IKOT EKPENE RD",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, OGUNLANA DRIVE",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "ABIA, FACTORY RD, ABA",
+        "number_of_commas": 2
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, OBA AKRAN",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, HEYDEN ALAPERE",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, MOBIL OGBA",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "KADUNA, AHMADU DELLO WAY",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, JOEL OGUNNAIKE",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "PH, RUKPOKWU",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, AGUNGI",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "AKWA IBOM, ABAK RD",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "PH, RUMUOLA",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "PH, ONNE",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, IDI-IROKO RD",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": false,
+        "full_location_name": "PH ABULOMA"
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, DIYA STREET",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "ILORIN, OFFA GARAGE",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "ABUJA, MPAPE",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "KANO, KATSINA RD",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "ABUJA, DEI-DEI",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "IMO, IKENEGBU, OWERRI",
+        "number_of_commas": 2
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "IMO, WETHERAL RD, OWERRI",
+        "number_of_commas": 2
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "PH, IWOFE",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "OSUN, AYETORO",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "EBONYI, AFIKPO, ABAKALIKI",
+        "number_of_commas": 2
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "OGUN, OKE-ILEWO",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "PH, OYIGBO",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "EBONYI, WATERWORKS, ABAKALIKI",
+        "number_of_commas": 2
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, IKOTUN",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, IPAJA RD",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "ABUJA, APO RESETTLEMENT",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "ILORIN, OLOFAWAY",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, EJIGBO",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "ABIA, AZIKIWE RD, UMUAHIA",
+        "number_of_commas": 2
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "DELTA, SAPELE-WARRI RD",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "ENUGU, CHIME AVENUE",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "PH, ONNE RD, GRA",
+        "number_of_commas": 2
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "ABIA, ABA-OWERRI RD",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "ANAMBRA, AWKA RD, ONITSHA",
+        "number_of_commas": 2
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "DELTA, EFFURUN",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, HEYDEN IPAJA",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "ABIA, ADAZI RD",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, BADORE",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, ALIMOSHO",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "ABUJA, DUTSE ALHAJI",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "DELTA, ISOKO RD",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "ABUJA, KARU",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "ABUJA, GWAGWALADA",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "EDO, SAPELE RD, BENIN",
+        "number_of_commas": 2
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, FATGBEMS",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "OGUN, FATGBEMS IBB WAY",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "IBADAN, VENTURA MALL",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "IBADAN, AKOBO",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "ILORIN, ASA DAM",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "ANAMBRA, ZIK AVENUE, AWKA",
+        "number_of_commas": 2
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "AKWA IBOM, AKA RD",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "IMO, OKIGWE",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "ABUJA, LIFE-CAMP",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, SALOLO",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "OGUN, HEYDEN IBAFO",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "ENUGU, POLO MALL",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "EDO, RAHMAT PARK, BENIN",
+        "number_of_commas": 2
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "ABUJA, DAWAKI",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, CONOIL IKEJA",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "BENUE, OLD OTUKPO",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "ABUJA, IDU",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, ISAWO-IKORODU",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "KANO, HOTORO",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, TOTAL LEKKI",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "BAYELSA, TOMBIA",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "NASSARAWA, KEFFI",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "BAYELSA, OPOLO",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "KANO, IBRAHIM TAIWO",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "EDO, SAKPOMBA",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "PH, UST",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "ENUGU, NSUKKA",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "EDO, SILUKO",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "PH, D-LINE",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "PH, OMOKU",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "ENUGU, ABAKPA",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, EKORO",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "ANAMBRA, LIMCA RD, ONITSHA",
+        "number_of_commas": 2
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "ABIA, OGBOR HILLS",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "AKWA IBOM, NWANIBA",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "IBADAN, OJOO",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "OGUN, SOKENU",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "ABUJA, GWARIMPA 2",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "CALABAR, NDIDEM",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "OYO, OGBOMOSHO",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "AKWA IBOM, EKET-ORON RD",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "DELTA, OKPE RD",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "ABUJA, UTAKO",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "OYO, OWODE",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": false,
+        "full_location_name": "Head Office"
+    },
+    {
+        "has_comma": false,
+        "full_location_name": "Central Kitchen"
+    },
+    {
+        "has_comma": false,
+        "full_location_name": "PPU Ilupeju"
+    },
+    {
+        "has_comma": false,
+        "full_location_name": "PPU Opebi"
+    },
+    {
+        "has_comma": false,
+        "full_location_name": "PPU Ajah"
+    },
+    {
+        "has_comma": true,
+        "full_location_name": "LAG, ONIRU",
+        "number_of_commas": 1
+    },
+    {
+        "has_comma": false,
+        "full_location_name": "PPU Kaduna"
+    },
+    {
+        "has_comma": false,
+        "full_location_name": "PPU Tombia"
+    },
+    {
+        "has_comma": false,
+        "full_location_name": "PPU BENIN"
+    },
+    {
+        "has_comma": false,
+        "full_location_name": "OLD OTUKPO MAKURDI"
+    },
+    {
+        "has_comma": false,
+        "full_location_name": "AGIDINGBI"
+    },
+    {
+        "has_comma": false,
+        "full_location_name": "SANGOTEDO"
+    },
+    {
+        "has_comma": false,
+        "full_location_name": "DOXA RD"
+    }
+]
