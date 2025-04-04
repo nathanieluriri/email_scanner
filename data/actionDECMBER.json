@@ -1,0 +1,2430 @@
+[
+    {
+        "action": "DETACHED DOOR HINGES IN CHIPS FRYER",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "KITCHEN_EQUIPMENT",
+        "equipment": "CHIPS FRYER 1"
+    },
+    {
+        "action": "STORE REPAIRS",
+        "reason": "ELECTRICAL SURGE",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "STORE REPAIRS",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "PIE EXPRESS OKE AFA MELTING CABINET CABLE",
+        "reason": "ELECTRICAL SURGE",
+        "maintenenance": "BREAKDOWN",
+        "category": "KITCHEN_EQUIPMENT",
+        "equipment": "DISPLAY CABINET"
+    },
+    {
+        "action": "GENERATOR SERVICING",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "GENERATOR SERVICING",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "REQUEST FOR GENERATOR SERVICING (CR LIMCA RD)",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "GENERATOR SERVICING",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "SERVICING OF GAS BURNER/ GAS LEAKAGE AT SOCKET JOINT",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GAS",
+        "equipment": "GAS CYLINDER"
+    },
+    {
+        "action": "FAULTY COLD ROOM",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "HVAC",
+        "equipment": "COLD ROOM UNIT"
+    },
+    {
+        "action": "GAS LEAKAGE",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GAS",
+        "equipment": "GAS CYLINDER"
+    },
+    {
+        "action": "GAS LEAKAGE",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GAS",
+        "equipment": "GAS CYLINDER"
+    },
+    {
+        "action": "FAULTY GAS REGULATOR",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GAS",
+        "equipment": "GAS CYLINDER"
+    },
+    {
+        "action": "INSECT ELECTROCUTOR BULB BAD",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "ELECTRICAL",
+        "equipment": "INSECT KILLER LOBBY 1"
+    },
+    {
+        "action": "AC SERVICING - AWKA ROAD",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "HVAC",
+        "equipment": "5HP STANDING AC UNIT 1"
+    },
+    {
+        "action": "FAULTY WALL SOCKETS IN THE KITCHEN",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "REQUEST FOR CABINET BULB",
+        "reason": "ELECTRICAL SURGE",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "FAULTY ROLLER SHUTTER",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "SECURITY",
+        "equipment": "ENTRANCE ROLLER SHUTTER"
+    },
+    {
+        "action": "REQUEST FOR LED LIGHT",
+        "reason": "ELECTRICAL SURGE",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "REQUEST FOR LED LIGHT,MOTOR STARTER AND SOCKET",
+        "reason": "ELECTRICAL SURGE",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "FAULTY WARMER HANDLE",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "DEAD INSECTROCUTOR BULBS",
+        "reason": "ELECTRICAL SURGE",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "SEPTIC TANK FLLL UP",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "EVACUATION",
+        "equipment": "SEPTIC TANK"
+    },
+    {
+        "action": "PX OGUDU CABINET NOT ATTAINING TEMPERATURE",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "CRITICAL WATER ISSUES",
+        "reason": "CORRECTIVE ACTION",
+        "maintenenance": "CORRECTIVE",
+        "category": "BUILDING",
+        "equipment": "WATER TREATMENT PLANT BLD"
+    },
+    {
+        "action": "FAULTY FREEZER ROOM BULB",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "HVAC",
+        "equipment": "FREEZER ROOM"
+    },
+    {
+        "action": "FAULTY KETTLE",
+        "reason": "USERS MISUSE",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "FAULTY CABINET LAMP HOLDERS",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "FAULTY CABINET LAMP HOLDERS",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "FAULTY CHIPS FRYER",
+        "reason": "USERS MISUSE",
+        "maintenenance": "BREAKDOWN",
+        "category": "KITCHEN_EQUIPMENT",
+        "equipment": "CHIPS FRYER 1"
+    },
+    {
+        "action": "FAULTY CHIPS FRYER",
+        "reason": "USERS MISUSE",
+        "maintenenance": "BREAKDOWN",
+        "category": "KITCHEN_EQUIPMENT",
+        "equipment": "CHIPS FRYER 1"
+    },
+    {
+        "action": "FAULTY CHIPS FRYER COMPARTMENT",
+        "reason": "USERS MISUSE",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "CABINET NOT ATTAINING TEMPERATURE",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "KITCHEN_EQUIPMENT",
+        "equipment": "DISPLAY CABINET"
+    },
+    {
+        "action": "PX OGUDU CABINET NOT ATTAINING TEMPERATURE",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "KITCHEN_EQUIPMENT",
+        "equipment": "DISPLAY CABINET"
+    },
+    {
+        "action": "PLANTING OF FLOWER AT FLOWER BED",
+        "reason": "CORRECTIVE ACTION",
+        "maintenenance": "CORRECTIVE",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "FAULTY INSECTICUTOR BULB",
+        "reason": "ELECTRICAL SURGE",
+        "maintenenance": "BREAKDOWN",
+        "category": "ELECTRICAL",
+        "equipment": "INSECT KILLER BOH"
+    },
+    {
+        "action": "LEAKING GAS AND SLOW BURNING BURNERS",
+        "reason": "CORRECTIVE ACTION",
+        "maintenenance": "CORRECTIVE",
+        "category": "GAS",
+        "equipment": "GAS CYLINDER"
+    },
+    {
+        "action": "FREEZER ROOM BREAKDOWN",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "HVAC",
+        "equipment": "FREEZER ROOM"
+    },
+    {
+        "action": "FAULTY INVERTER AT ADEOLA ODEKU",
+        "reason": "CORRECTIVE ACTION",
+        "maintenenance": "CORRECTIVE",
+        "category": "INVERTER",
+        "equipment": "INVERTER BATTERIES"
+    },
+    {
+        "action": "STORE GENERATOR DUE FOR SERVICING",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "FAULTY WARMER",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "FAULTY WARMER",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "BROKEN STORE ENTRANCE",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "SECURITY",
+        "equipment": "ENTRANCE ROLLER SHUTTER"
+    },
+    {
+        "action": "REQUEST FOR COLLECTOR GASKET FOR 6 HEAD MACHINE",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "FAULTY CUSTOMER REST ROOM DOOR",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "FAULTY CUSTOMER REST ROOM DOOR LOCK.",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "FAULTY CUSTOMER REST ROOM DOOR LOCK.",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "URGENT NEED FOR RE- PAINTING PPU MOKOLA",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "BUILDING",
+        "equipment": "PAINTING"
+    },
+    {
+        "action": "FAULTY TOASTER",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "KITCHEN_EQUIPMENT",
+        "equipment": "TOASTER MACHINE"
+    },
+    {
+        "action": "DEAD BULBS AT BOH",
+        "reason": "ELECTRICAL SURGE",
+        "maintenenance": "BREAKDOWN",
+        "category": "ELECTRICAL",
+        "equipment": "INSECT KILLER BOH"
+    },
+    {
+        "action": "FAULTY GENERATOR FUEL PUMP.",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "GAS LEAKAGE",
+        "reason": "CORRECTIVE ACTION",
+        "maintenenance": "CORRECTIVE",
+        "category": "GAS",
+        "equipment": "GAS HOSE & SUNDRIES"
+    },
+    {
+        "action": "DAILY EQJUIPMENT STATUS",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "DAILY EQJUIPMENT STATUS",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "KITCHEN_EQUIPMENT",
+        "equipment": "RATIONAL MACHINE"
+    },
+    {
+        "action": "DAILY EQJUIPMENT STATUS",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "FAULTY TAP HEAD AT FRYER SECTION",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "PLUMBING",
+        "equipment": "TAP"
+    },
+    {
+        "action": "FAULTY ROTESSERIE MACHINE",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "KITCHEN_EQUIPMENT",
+        "equipment": "ROTISSIERI MACHINE"
+    },
+    {
+        "action": "FAULTY UNDER BAR CHILLER",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "HVAC",
+        "equipment": "UPRIGHT UNDERBAR MACHINE"
+    },
+    {
+        "action": "GENERATOR BATERRY NOT WORKING",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "FAULTY CABBAGE SHREDDER",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "KITCHEN_EQUIPMENT",
+        "equipment": "SHREDDER"
+    },
+    {
+        "action": "GENERATOR DUE FOR SERVICING",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "GENERATOR DUE FOR SERVICING",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "GENERATOR DUE FOR SERVICING - CR AWKA ROAD, ONITSHA.",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "GENERATOR DUE FOR SERVICING",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "GENERATOR DUE FOR SERVICING",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "GENERATOR DUE FOR SERVICING",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "FILLED SEPTIC TANK",
+        "reason": "CORRECTIVE ACTION",
+        "maintenenance": "CORRECTIVE",
+        "category": "EVACUATION",
+        "equipment": "SEPTIC TANK"
+    },
+    {
+        "action": "EVACUATION OF FILLED SEPTIC TANK",
+        "reason": "CORRECTIVE ACTION",
+        "maintenenance": "CORRECTIVE",
+        "category": "EVACUATION",
+        "equipment": "SEPTIC TANK"
+    },
+    {
+        "action": "FUALTY CUSTOMERS REST ROOM AC",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "HVAC",
+        "equipment": "5HP STANDING AC UNIT 1"
+    },
+    {
+        "action": "WATER LEAKAGE FROM PIPE CONNECTED TO UNOX MACHINE",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "BAD DOUBLE FACE CHILLER",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "HVAC",
+        "equipment": "NBC CHILLER"
+    },
+    {
+        "action": "FAULTY LOBBY AC",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "HVAC",
+        "equipment": "5HP STANDING AC UNIT 1"
+    },
+    {
+        "action": "COLLECTROMATTRIC MACHINE FAULTY",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "KITCHEN_EQUIPMENT",
+        "equipment": "OPEN FRYER MACHINE 1"
+    },
+    {
+        "action": "FAULTY PASTRY MIXER",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "REQUEST FOR SOAP DISPENSER",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "COOK SINK IS FAULTY",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "PLUMBING",
+        "equipment": "KITCHEN WASH HAND SINK"
+    },
+    {
+        "action": "CR AJOSE PENDING MAINTENANCE ISSUE_.XLSX",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "WARMER MAKING NOISE",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "HVAC",
+        "equipment": "UPRIGHT WARMER MACHINE"
+    },
+    {
+        "action": "DAILY EQJUIPMENT STATUS",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "HVAC",
+        "equipment": "FREEZER ROOM"
+    },
+    {
+        "action": "FAULTY GENERATOR ( OVERSPEED)",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "GENERATOR SERVICE REQUEST - CR NSUKKA",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "FAULTY  GENERATOR BATTERY - CR NSUKKA",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "WATERWORKS GENERATOR SERVICE REQUEST (004) (002).XLSX",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "MAINTENANCE REQUEST",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "GENERATOR SERVICING",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "FREEZER ROOM NOT COMING UP",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "HVAC",
+        "equipment": "FREEZER ROOM"
+    },
+    {
+        "action": "GENERATOR DUE FOR SERVICING",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "FREEZER ROOM NOT COMING UP",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "HVAC",
+        "equipment": "FREEZER ROOM"
+    },
+    {
+        "action": "LOW ENGINE OIL",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "GENERATOR DUE FOR SERVICING",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "GENERATOR DUE FOR SERVICING",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "GENERATOR DUE FOR 1ST SERVICE",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "GENERATOR BATTERY NOT WORKING",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "GENERATOR SERVICE",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "BAD GENRATOR RADIATOR",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "GENSET SERVICING",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "GENERATOR BREAKDOWN",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "GENERATOR BREAKDOWN",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "GENERATOR NOT STARTING",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "GENERATOR SERVICING",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "GENERATOR DUE FOR SERVICE",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "GENERATOR DUE FOR SERVICING",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "LOBBY AC NOT COOLING",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "HVAC",
+        "equipment": "5HP STANDING AC UNIT 1"
+    },
+    {
+        "action": "NO RUNNING WATER IN THE STORE",
+        "reason": "CORRECTIVE ACTION",
+        "maintenenance": "CORRECTIVE",
+        "category": "PLUMBING",
+        "equipment": "TAP"
+    },
+    {
+        "action": "DEAD INSECTOCUTOR BULBS",
+        "reason": "ELECTRICAL SURGE",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "DEAD SECURITY BULB",
+        "reason": "ELECTRICAL SURGE",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "BROKEN TAP PIPE AT COOK SECTION",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "PLUMBING",
+        "equipment": "TAP"
+    },
+    {
+        "action": "FULTY INVERTER",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "ELECTRICAL",
+        "equipment": "INVERTER DB"
+    },
+    {
+        "action": "GENERATOR SERVICES",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "SEPTIC TANK FILL",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "EVACUATION",
+        "equipment": "SEPTIC TANK"
+    },
+    {
+        "action": "LOBBY AC'S NOT WORKING",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "HVAC",
+        "equipment": "5HP STANDING AC UNIT 1"
+    },
+    {
+        "action": "LOBBY AC NOT WORKING",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "HVAC",
+        "equipment": "5HP STANDING AC UNIT 1"
+    },
+    {
+        "action": "OPEN WALL",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "BUILDING",
+        "equipment": "WALL"
+    },
+    {
+        "action": "OPEN WALL",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "BUILDING",
+        "equipment": "WALL"
+    },
+    {
+        "action": "BENT SIGNAGE",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "RUSTED PEELED PYLON AND SIGNAGE",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "CUSTOMER BLOCKED TOILET",
+        "reason": "CORRECTIVE ACTION",
+        "maintenenance": "CORRECTIVE",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "LOBBY AC NOT WORKUNG EFFECTIVELY",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "HVAC",
+        "equipment": "5HP STANDING AC UNIT 1"
+    },
+    {
+        "action": "WOBBLING TABLES",
+        "reason": "CORRECTIVE ACTION",
+        "maintenenance": "CORRECTIVE",
+        "category": "FURNITURE",
+        "equipment": "CUSTOMER TABLE"
+    },
+    {
+        "action": "DAAMAGED LOBBY DOOR",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "REPLACEMENT OF FAULTY STORE TV",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "AUDIOVISUAL",
+        "equipment": "TELEVISION"
+    },
+    {
+        "action": "FOH GLASS DOOR ABOUT TO FALL",
+        "reason": "CORRECTIVE ACTION",
+        "maintenenance": "CORRECTIVE",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "DEAD BULB AT PRODUCTION AREA AND BOH",
+        "reason": "ELECTRICAL SURGE",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "REPAIR OF CONCRETE SLABS & CAR PARK",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "LEAKING SINK AT COOK WASHING AREA",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "PLUMBING",
+        "equipment": "KITCHEN WASH HAND SINK"
+    },
+    {
+        "action": "SEPTIC TANK EVACUATION",
+        "reason": "CORRECTIVE ACTION",
+        "maintenenance": "CORRECTIVE",
+        "category": "EVACUATION",
+        "equipment": "SEPTIC TANK"
+    },
+    {
+        "action": "SEPTIC TANK EVACUATION",
+        "reason": "CORRECTIVE ACTION",
+        "maintenenance": "CORRECTIVE"
+    },
+    {
+        "action": "FAULTY ICE CREAM MACHINE",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "KITCHEN_EQUIPMENT",
+        "equipment": "ICE CREAM MACHINE"
+    },
+    {
+        "action": "FAULTY ICE CREAM MACHINE",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "KITCHEN_EQUIPMENT",
+        "equipment": "ICE CREAM MACHINE"
+    },
+    {
+        "action": "FAULTY ICE CREAM MACHINE",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "KITCHEN_EQUIPMENT",
+        "equipment": "ICE CREAM MACHINE"
+    },
+    {
+        "action": "FAULTY ICE-CREAM MACHINE { TAYLOR MACHINE}",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "KITCHEN_EQUIPMENT",
+        "equipment": "ICE CREAM MACHINE"
+    },
+    {
+        "action": "FREEZER ROOM NOT WORKING",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "HVAC",
+        "equipment": "FREEZER ROOM"
+    },
+    {
+        "action": "FREEZER ROOM NOT WORKING",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "HVAC",
+        "equipment": "FREEZER ROOM"
+    },
+    {
+        "action": "COLD ROOM NOT WORKING",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "HVAC",
+        "equipment": "COLD ROOM UNIT"
+    },
+    {
+        "action": "LEAKING SINK AT COOK WASHING AREA",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "PLUMBING",
+        "equipment": "KITCHEN WASH HAND SINK"
+    },
+    {
+        "action": "BROKEN BOREHOLE PIPE",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "FAULTY FREEZER ROOM & COLDROOM",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "HVAC",
+        "equipment": "FREEZER ROOM"
+    },
+    {
+        "action": "REQUEST FOR GAS BURNER SERVICING AND CHANGING OF BAD BURNER  CONTROL.",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "KITCHEN_EQUIPMENT",
+        "equipment": "COOKING BURNER"
+    },
+    {
+        "action": "FAULTY FREEZER ROOM",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "HVAC",
+        "equipment": "FREEZER ROOM"
+    },
+    {
+        "action": "FAULTY FREEZER ROOM-YENAGOA",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "HVAC",
+        "equipment": "FREEZER ROOM"
+    },
+    {
+        "action": "FAULTY FREEZER ROOM DOOR HINGES",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "HVAC",
+        "equipment": "FREEZER ROOM"
+    },
+    {
+        "action": "FAULTY FREEZER ROOM DOOR",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "HVAC",
+        "equipment": "FREEZER ROOM"
+    },
+    {
+        "action": "FAULTY FREEZER ROOM LIGHT",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "HVAC",
+        "equipment": "FREEZER ROOM"
+    },
+    {
+        "action": "FAULTY FREEZER ROOM DOOR HANDLE",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "HVAC",
+        "equipment": "FREEZER ROOM"
+    },
+    {
+        "action": "FAULTY FREEZER ROOM BULB",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "HVAC",
+        "equipment": "FREEZER ROOM"
+    },
+    {
+        "action": "FAULTY FREEZER ROOM AND COLD ROOM",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "HVAC",
+        "equipment": "FREEZER ROOM"
+    },
+    {
+        "action": "FAULTY FREEZER ROOM DOOR",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "HVAC",
+        "equipment": "FREEZER ROOM"
+    },
+    {
+        "action": "MAINTENANCE ISSUES PICK DURING OSC",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "COLLAPSING CEILING",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "BUILDING",
+        "equipment": "CEILING BOARD"
+    },
+    {
+        "action": "DAMAGED CEELING AT C.R OKIGWE ROAD OWERRI",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "BUILDING",
+        "equipment": "CEILING BOARD"
+    },
+    {
+        "action": "NEED FOR INVERTER FOR PPU PH, UYO, TOMBIA AND OWERRI",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "ELECTRICAL",
+        "equipment": "INVERTER DB"
+    },
+    {
+        "action": "CHIPS FRYER NOT MELTING",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "KITCHEN_EQUIPMENT",
+        "equipment": "CHIPS FRYER 1"
+    },
+    {
+        "action": "BROKEN SEWAGE PIPE",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "UPRIGHT TANK DUE FOR WASHINING",
+        "reason": "CORRECTIVE ACTION",
+        "maintenenance": "CORRECTIVE",
+        "category": "WTP",
+        "equipment": "OVERHEAD WATER TANK"
+    },
+    {
+        "action": "ICE CREAM MACHINE NOT COMING UP (SPACEMAN)",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "KITCHEN_EQUIPMENT",
+        "equipment": "ICE CREAM MACHINE"
+    },
+    {
+        "action": "EVACUATION OF SEPTIC TANK AND FAT TRAP",
+        "reason": "CORRECTIVE ACTION",
+        "maintenenance": "CORRECTIVE",
+        "category": "EVACUATION",
+        "equipment": "SEPTIC TANK"
+    },
+    {
+        "action": "FAULTY AC - CUSTOMER RESTROOM AND DRY STORE",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "HVAC",
+        "equipment": "5HP STANDING AC UNIT 4"
+    },
+    {
+        "action": "4 DEAD BULB IN THE CABINET",
+        "reason": "ELECTRICAL SURGE",
+        "maintenenance": "BREAKDOWN"
+    },
+    {
+        "action": "WASTE EVACUATION IN SEPTIC TANK",
+        "reason": "CORRECTIVE ACTION",
+        "maintenenance": "CORRECTIVE",
+        "category": "EVACUATION",
+        "equipment": "SEPTIC TANK"
+    },
+    {
+        "action": "BLOCKRD DRAINAGE",
+        "reason": "CORRECTIVE ACTION",
+        "maintenenance": "CORRECTIVE",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "STORE AUDIT REPORT (19.12.24)",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "HVAC",
+        "equipment": "UPRIGHT UNDERBAR MACHINE"
+    },
+    {
+        "action": "GENERATOR BREAKDOWN",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "6 DEAD BULBS IN THE LOBBY",
+        "reason": "ELECTRICAL SURGE",
+        "maintenenance": "BREAKDOWN",
+        "category": "ELECTRICAL",
+        "equipment": "18W ROUND LIGHT FITTING"
+    },
+    {
+        "action": "CRACKED FLOOR AND WALL TILES AROUND THE STORE",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "BUILDING",
+        "equipment": "WALL"
+    },
+    {
+        "action": "FAULTY ICE CREAM MACHINE",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "KITCHEN_EQUIPMENT",
+        "equipment": "ICE CREAM MACHINE"
+    },
+    {
+        "action": "INCOMPLET 3 PHASE OF ELECTRICITY SUPPLY",
+        "reason": "ELECTRICAL SURGE",
+        "maintenenance": "BREAKDOWN",
+        "category": "ELECTRICAL",
+        "equipment": "MAIN ELECTRICAL PANEL"
+    },
+    {
+        "action": "OFFENCING GAS SMELL AT THE CONNECTION OF THE GAS",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "GAS",
+        "equipment": "GAS HOSE & SUNDRIES"
+    },
+    {
+        "action": "ALL COLD ROOM CHAMBERS AT PPU ONIRU NOT WORKING",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "HVAC",
+        "equipment": "COLD ROOM UNIT"
+    },
+    {
+        "action": "LOBBY AC NOT COOLING",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "HVAC",
+        "equipment": "5HP STANDING AC UNIT 1"
+    },
+    {
+        "action": "REQUEST FOR 3 AIR VENTS",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "HVAC",
+        "equipment": "EXTRACTION SYSTEM (FRESH AIR)"
+    },
+    {
+        "action": "3 LOBBY AC DRIPPING WATER",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "HVAC",
+        "equipment": "5HP STANDING AC UNIT 1"
+    },
+    {
+        "action": "REPLACEMENT OF INSECT KILLER WITH BULBS.",
+        "reason": "ELECTRICAL SURGE",
+        "maintenenance": "BREAKDOWN",
+        "category": "ELECTRICAL",
+        "equipment": "INSECT KILLER BOH"
+    },
+    {
+        "action": "TIMER SWITCH NOT FUNCTIONING",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "WTP",
+        "equipment": "FILTRATION VESSEL 1"
+    },
+    {
+        "action": "CR RUMUOLA  GENERATOR BREAKDOWN",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN"
+    },
+    {
+        "action": "GENERATOR NOT CARRYING LOAD",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "GREASE TRAP NOT WORKING EFFECTIVELY",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "GREASE_TRAP",
+        "equipment": "GREASE TRAP"
+    },
+    {
+        "action": "LEAKING AERATION TANK",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "WTP",
+        "equipment": "AERATION TANK"
+    },
+    {
+        "action": "BAD FLUSHER IN THE CUSTOMER RESTROOM",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "HVAC",
+        "equipment": "SPLIT UNIT TOILET"
+    },
+    {
+        "action": "REQUEST FOR GENERATOR SERVICING + REPLAMNENT NEW TURBO CHARGER AT - CR-AZIKIWE RD, 10 AZIKIWE ROAD, UMUAHIA, ABIA - STATE",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "REQUEST FOR GENERATOR SERVICING + REPLAMNENT NEW TURBO CHARGER AT - CR-AZIKIWE RD, 10 AZIKIWE ROAD, UMUAHIA, ABIA - STATE",
+        "reason": "CORRECTIVE ACTION",
+        "maintenenance": "CORRECTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "FAULTY WARMER\u00a0AND TOASTER SOCKET",
+        "reason": "ELECTRICAL SURGE",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "FAULTY WARMER",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "FAULTY WARMER",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "FAULTY WARMER",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "A/C OUTDOOR UNIT BURLARY AND DRAINAGE COVER",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "REPLACEMENT OF UNDER COUNTER QUEUE TABLE",
+        "reason": "CORRECTIVE ACTION",
+        "maintenenance": "CORRECTIVE",
+        "category": "FURNITURE",
+        "equipment": "PRODUCTION TABLE"
+    },
+    {
+        "action": "AC DUE FOR SERVICE",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "HVAC",
+        "equipment": "5HP STANDING AC UNIT 1"
+    },
+    {
+        "action": "REQUEST FOR LED LIGHT\u00a0- CR OJOO",
+        "reason": "ELECTRICAL SURGE",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "REQUEST FOR LED LIGHT",
+        "reason": "ELECTRICAL SURGE",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "FAULTY ROLLER SHUTTER",
+        "reason": "CORRECTIVE ACTION",
+        "maintenenance": "CORRECTIVE",
+        "category": "SECURITY",
+        "equipment": "ENTRANCE ROLLER SHUTTER"
+    },
+    {
+        "action": "FAULTY ROLLER SHUTTER",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "SECURITY",
+        "equipment": "ENTRANCE ROLLER SHUTTER"
+    },
+    {
+        "action": "FAULTY ROLLER SHORTER REMOTE",
+        "reason": "USERS MISUSE",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "FAULTY ROLLER SHUTTER",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "SECURITY",
+        "equipment": "ENTRANCE ROLLER SHUTTER"
+    },
+    {
+        "action": "FAULTY ROLLER SHUTTER",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "SECURITY",
+        "equipment": "ENTRANCE ROLLER SHUTTER"
+    },
+    {
+        "action": "FAULTY STANDING CHILLER ONIRU PPU",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "HVAC",
+        "equipment": "NBC CHILLER"
+    },
+    {
+        "action": "FAULTY BURNER",
+        "reason": "CORRECTIVE ACTION",
+        "maintenenance": "CORRECTIVE",
+        "category": "KITCHEN_EQUIPMENT",
+        "equipment": "COOKING BURNER"
+    },
+    {
+        "action": "SEWAGE EVACUATION",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "EVACUATION",
+        "equipment": "SEPTIC TANK"
+    },
+    {
+        "action": "LOBBY AC NOT WORKING",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "HVAC",
+        "equipment": "5HP STANDING AC UNIT 1"
+    },
+    {
+        "action": "FAULTY CABINET BULB",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "KITCHEN_EQUIPMENT",
+        "equipment": "DISPLAY CABINET"
+    },
+    {
+        "action": "FAULTY CABINET LAMP HOLDERS",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "KITCHEN_EQUIPMENT",
+        "equipment": "DISPLAY CABINET"
+    },
+    {
+        "action": "CABINET LAMP HOLDER",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "KITCHEN_EQUIPMENT",
+        "equipment": "DISPLAY CABINET"
+    },
+    {
+        "action": "FAULTY CABINET",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "KITCHEN_EQUIPMENT",
+        "equipment": "DISPLAY CABINET"
+    },
+    {
+        "action": "FAULTY CABINET",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "KITCHEN_EQUIPMENT",
+        "equipment": "DISPLAY CABINET"
+    },
+    {
+        "action": "FAULTY CABINET FLAP",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "KITCHEN_EQUIPMENT",
+        "equipment": "DISPLAY CABINET"
+    },
+    {
+        "action": "FAULTY CABINET",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "KITCHEN_EQUIPMENT",
+        "equipment": "DISPLAY CABINET"
+    },
+    {
+        "action": "FAULTY CHIPS COMPARTMENT",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "KITCHEN_EQUIPMENT",
+        "equipment": "DISPLAY CABINET"
+    },
+    {
+        "action": "FILLED SEPTIC TANK",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "EVACUATION",
+        "equipment": "SEPTIC TANK"
+    },
+    {
+        "action": "EVACUATION OF FILLED SEPTIC TANK",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "EVACUATION",
+        "equipment": "SEPTIC TANK"
+    },
+    {
+        "action": "FILLED SEPTIC TANK",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "EVACUATION",
+        "equipment": "SEPTIC TANK"
+    },
+    {
+        "action": "FILLED SEPTIC TANK",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "EVACUATION",
+        "equipment": "SEPTIC TANK"
+    },
+    {
+        "action": "PIE EXPRESS OKE AFA MELTING CABINET CABLE",
+        "reason": "ELECTRICAL SURGE",
+        "maintenenance": "BREAKDOWN",
+        "category": "KITCHEN_EQUIPMENT",
+        "equipment": "DISPLAY CABINET"
+    },
+    {
+        "action": "FREEZER NOT FROZEN",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "HVAC",
+        "equipment": "FREEZER ROOM"
+    },
+    {
+        "action": "FREEZER NOT ATTAINING TEMPERATURE",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "HVAC",
+        "equipment": "FREEZER ROOM"
+    },
+    {
+        "action": "OPEN CEILING IN MANAGER OFFICE",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "BUILDING",
+        "equipment": "CEILING BOARD"
+    },
+    {
+        "action": "COLD ROOM NOT ATTAINING TEMPERATURE",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "HVAC",
+        "equipment": "COLD ROOM UNIT"
+    },
+    {
+        "action": "COLD ROOM NOT ATTAINING TEMPERATURE",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "HVAC",
+        "equipment": "FREEZER ROOM"
+    },
+    {
+        "action": "COLD ROOM NOT ATTAINING TEMPERATURE",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "HVAC",
+        "equipment": "COLD ROOM UNIT"
+    },
+    {
+        "action": "COLD ROOM NOT ATTAINING TEMPERATURE",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "HVAC",
+        "equipment": "COLD ROOM UNIT"
+    },
+    {
+        "action": "COLD ROOM NOT ATTAINING TEMPERATURE",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "HVAC",
+        "equipment": "COLD ROOM UNIT"
+    },
+    {
+        "action": "FREEZER ROOM AND COLD ROOM NOT ATTAINING TEMPERATURE",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "HVAC",
+        "equipment": "FREEZER ROOM"
+    },
+    {
+        "action": "COLD ROOM NOT ATTAINING TEMPERATURE",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "HVAC",
+        "equipment": "FREEZER ROOM"
+    },
+    {
+        "action": "COLD ROOM NOT ATTAINING TEMPERATURE",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "HVAC",
+        "equipment": "COLD ROOM UNIT"
+    },
+    {
+        "action": "COLD ROOM NOT ATTAINING TEMPERATURE",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN"
+    },
+    {
+        "action": "COLD ROOM NOT ATTAINING TEMPERATURE",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "HVAC",
+        "equipment": "COLD ROOM UNIT"
+    },
+    {
+        "action": "COLD ROOM NOT ATTAINING TEMPERATURE",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "HVAC",
+        "equipment": "COLD ROOM UNIT"
+    },
+    {
+        "action": "FREEZER ROOM AND COLD ROOM NOT ATTAINING TEMPERATURE",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "HVAC",
+        "equipment": "COLD ROOM UNIT"
+    },
+    {
+        "action": "COLD ROOM NOT ATTAINING TEMPERATURE",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "HVAC",
+        "equipment": "COLD ROOM UNIT"
+    },
+    {
+        "action": "GENERATOR SERVICING",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "SERVICING OF GENERATOR",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "RADIATOR TREATMENT",
+        "reason": "CORRECTIVE ACTION",
+        "maintenenance": "CORRECTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "GENERATOR BREAKDOWN",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "LEAKING WATER SEPARATOR",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "GENERATOR RADIATOR TREATMENT AND FIXING OF LIFT PUMP",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "GENERATOR DUE FOR SERIVICING",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "FAULTY GENERATOR BATTERY",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "GENERATOR DUE FOR SERVICING",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "ABA-OWERRI ROAD GENERATOR DSE (DISPLAY PANEL BOARD)",
+        "reason": "CORRECTIVE ACTION",
+        "maintenenance": "CORRECTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "GENERATOR DUE FOR SERVICING",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "STORE BLACK OUT",
+        "reason": "ELECTRICAL SURGE",
+        "maintenenance": "BREAKDOWN",
+        "category": "ELECTRICAL",
+        "equipment": "MAIN ELECTRICAL PANEL"
+    },
+    {
+        "action": "PX BARIGA FAULTY INVERTER",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "INVERTER",
+        "equipment": "INVERTER SYSTEM"
+    },
+    {
+        "action": "GENERATOR DUE FOR SERVICE",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "GENERATOR DUE FOR SERVICE",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "GENERATOR DUE FOR SERVICE",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "GENERATOR DUE FOR SERVICE",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "GENERATOR DUE FOR SERVICE",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "GENERATOR DUE FOR SERVICE",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "GENERATOR DUE FOR SERVICE",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "GASKET ELECTROMATIC MACHINE RUBBER NEEDED",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "KITCHEN_EQUIPMENT",
+        "equipment": "CHIPS FRYER 1"
+    },
+    {
+        "action": "BURNT COLDROOM ELECTRICAL SWITCH BOX",
+        "reason": "ELECTRICAL SURGE",
+        "maintenenance": "BREAKDOWN",
+        "category": "HVAC",
+        "equipment": "COLD ROOM UNIT"
+    },
+    {
+        "action": "FAULTY ROLLER SHUTTER",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "SECURITY",
+        "equipment": "ENTRANCE ROLLER SHUTTER"
+    },
+    {
+        "action": "FAULTY ROLLER SHUTTER DOOR",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "SECURITY",
+        "equipment": "ENTRANCE ROLLER SHUTTER"
+    },
+    {
+        "action": "FAULTY ROLLER SHUTTER",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "SECURITY",
+        "equipment": "ENTRANCE ROLLER SHUTTER"
+    },
+    {
+        "action": "FAULTY ROLLER SHUTTER",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "SECURITY",
+        "equipment": "ENTRANCE ROLLER SHUTTER"
+    },
+    {
+        "action": "COLD ROOM NOT WORKING.",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "HVAC",
+        "equipment": "COLD ROOM UNIT"
+    },
+    {
+        "action": "WATER LEAKAGE FROM PIPE CONNECTED TO UNOX MACHINE",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "FAULTY KITCHEN TAP AND CHANGING ROOM TAP",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "PLUMBING",
+        "equipment": "TAP"
+    },
+    {
+        "action": "CAR PARK AREA REVAMPING",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "GENERATOR SERVICING",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "GENERATOR SERVICING",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "GENERATOR SERVICING - CR OJOO",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "GENERATOR SERVICING.",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "REQUEST FOR GENERATOR SERVICING",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "GENERATOR SERVICING",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "REQUEST FOR\u00a0GENERATOR SERVICING",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "GENERATOR SERVICING",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "GENERATOR SERVICING",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "GENERATOR SERVICING",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "GENERATOR SERVICING",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "GENERATOR SERVICING",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "GENERATOR SERVICING",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "GENERATOR SERVICING",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "GENERATOR SERVICING",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "REQUEST FOR GENERATOR SERVICING (CR LIMCA RD)",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "VEGETABLE SHREDDER NOT WORKING",
+        "reason": "CORRECTIVE ACTION",
+        "maintenenance": "CORRECTIVE",
+        "category": "KITCHEN_EQUIPMENT",
+        "equipment": "SHREDDER"
+    },
+    {
+        "action": "NO RUNNING WATER",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "LEAKING SINK AND BAD TAPS",
+        "reason": "USERS MISUSE",
+        "maintenenance": "BREAKDOWN",
+        "category": "PLUMBING",
+        "equipment": "KITCHEN WASH HAND SINK"
+    },
+    {
+        "action": "WATER LEAKAGE IN MALE CUSTOMER RESTROOM",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "PLUMBING",
+        "equipment": "TAP"
+    },
+    {
+        "action": "FAULTY LOBBY FEMALE RESTROOM FLUSHER",
+        "reason": "USERS MISUSE",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "DAILY EQJUIPMENT STATUS",
+        "reason": "USERS MISUSE",
+        "maintenenance": "BREAKDOWN",
+        "category": "PLUMBING",
+        "equipment": "TAP"
+    },
+    {
+        "action": "WATER NOT RUNNING",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "PLUMBING",
+        "equipment": "TAP"
+    },
+    {
+        "action": "FAULTY GAS BURNER.",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "KITCHEN_EQUIPMENT",
+        "equipment": "COOKING BURNER"
+    },
+    {
+        "action": "FAULTY PUMPING MACHINE",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "WTP",
+        "equipment": "SUBMERSIBLE PUMP"
+    },
+    {
+        "action": "FAULTY PUMPING MACHINE",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "WTP",
+        "equipment": "SUBMERSIBLE PUMP"
+    },
+    {
+        "action": "BROKEN PIPE (GP TANK)",
+        "reason": "USERS MISUSE",
+        "maintenenance": "BREAKDOWN",
+        "category": "WTP",
+        "equipment": "GROUND WATER TANK"
+    },
+    {
+        "action": "REQUEST FOR K-ROD",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "GAS LEAKAGE FROM THE BURNER",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "GAS",
+        "equipment": "GAS HOSE & SUNDRIES"
+    },
+    {
+        "action": "FAULTY GREASE TRAP",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "GREASE_TRAP",
+        "equipment": "GREASE TRAP"
+    },
+    {
+        "action": "HOT WATER NOT WITHIN TEMPERATURE RANGE",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "PLUMBING",
+        "equipment": "WATER HEATER"
+    },
+    {
+        "action": "FAULTY DRAINAGE BLOCKED",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "MALE RESTROOM WC NOT FLUSHING",
+        "reason": "USERS MISUSE",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "LEAKING FAT TRAP PIPE",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "GREASE_TRAP",
+        "equipment": "GREASE TRAP"
+    },
+    {
+        "action": "FAULTY COOK SINK",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "PLUMBING",
+        "equipment": "KITCHEN WASH HAND SINK"
+    },
+    {
+        "action": "GAS LEAKAGE .",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "GAS",
+        "equipment": "GAS HOSE & SUNDRIES"
+    },
+    {
+        "action": "GAS LEAKAGE IN THE STORE",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "GAS",
+        "equipment": "GAS HOSE & SUNDRIES"
+    },
+    {
+        "action": "GAS LEAKAGE",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "GAS",
+        "equipment": "GAS HOSE & SUNDRIES"
+    },
+    {
+        "action": "GAS LEAKAGE IN THE COLDROOM",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "HVAC",
+        "equipment": "COLD ROOM UNIT"
+    },
+    {
+        "action": "FAULTY CUSTOMER REST ROOM FLUSHER",
+        "reason": "USERS MISUSE",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "FAULTY CUSTOMER'S REST ROOM DOORS AND FAULTY MANAGER'S DOOR HANDLE",
+        "reason": "USERS MISUSE",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "FAULTY CUSTOMER REST ROOM",
+        "reason": "USERS MISUSE",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "FAULTY INSECUTOR",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "ELECTRICAL",
+        "equipment": "INSECT KILLER BOH"
+    },
+    {
+        "action": "PX IDIMU FAULTY INSECUTOR BULB.",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "ELECTRICAL",
+        "equipment": "INSECT KILLER LOBBY 1"
+    },
+    {
+        "action": "FAULTY UP LOBBY LIGHT",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "ELECTRICAL",
+        "equipment": "DROPPING LIGHT"
+    },
+    {
+        "action": "STORE AUDIT (04.12.24)",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "ELECTRICAL",
+        "equipment": "MAIN ELECTRICAL PANEL"
+    },
+    {
+        "action": "STORE AUDIT (04.12.24)",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "REPLACEMEMT OF EXTRACTOR LAMPHOLDER AND BLOWN BULB",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "ELECTRICAL",
+        "equipment": "18W ROUND LIGHT FITTING"
+    },
+    {
+        "action": "REQUEST FOR MOTOR STARTER",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "BURNT SOCKET",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "BURNT INVERTER SOCKET",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "INVERTER",
+        "equipment": "INVERTER SYSTEM"
+    },
+    {
+        "action": "ALMOST BURNT ELECTRICITY METER CABLES",
+        "reason": "ELECTRICAL SURGE",
+        "maintenenance": "BREAKDOWN",
+        "category": "ELECTRICAL",
+        "equipment": "MAIN ELECTRICAL PANEL"
+    },
+    {
+        "action": "ELECTRIC SPARK IN THE STORE",
+        "reason": "ELECTRICAL SURGE",
+        "maintenenance": "BREAKDOWN",
+        "category": "ELECTRICAL",
+        "equipment": "MAIN ELECTRICAL PANEL"
+    },
+    {
+        "action": "FAULTY FRYER SOCKET AND 4 HEAD FRYER MACHINE",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "ICE CREAM MACHINE NOT FREEZING",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "KITCHEN_EQUIPMENT",
+        "equipment": "ICE CREAM MACHINE"
+    },
+    {
+        "action": "FREEZER ROOM NOT WORKING",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "HVAC",
+        "equipment": "FREEZER ROOM"
+    },
+    {
+        "action": "FAULTY BOH INSERCUTOR BULB",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "ELECTRICAL",
+        "equipment": "INSECT KILLER LOBBY 1"
+    },
+    {
+        "action": "FREEZER ROOM NOT ATTAINING TEMPRATURE",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "HVAC",
+        "equipment": "FREEZER ROOM"
+    },
+    {
+        "action": "COLDROOM NOT WORKING EFFECTIVELY",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "HVAC",
+        "equipment": "COLD ROOM UNIT"
+    },
+    {
+        "action": "SEWAGE EVACUATION.",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "EVACUATION",
+        "equipment": "SEPTIC TANK"
+    },
+    {
+        "action": "SEWAGE EVACUATION.",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "EVACUATION",
+        "equipment": "SEPTIC TANK"
+    },
+    {
+        "action": "SEWAGE EVACUATION",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "EVACUATION",
+        "equipment": "SEPTIC TANK"
+    },
+    {
+        "action": "SEWAGE EVACUATION.",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "EVACUATION",
+        "equipment": "SEPTIC TANK"
+    },
+    {
+        "action": "SEWAGE EVACUATION.",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "EVACUATION",
+        "equipment": "SEPTIC TANK"
+    },
+    {
+        "action": "SEWAGE EVACUATION",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "EVACUATION",
+        "equipment": "SEPTIC TANK"
+    },
+    {
+        "action": "SEWAGE EVACUATION.",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "EVACUATION",
+        "equipment": "SEPTIC TANK"
+    },
+    {
+        "action": "SEWAGE EVACUATION",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "EVACUATION",
+        "equipment": "SEPTIC TANK"
+    },
+    {
+        "action": "GENERATOR DUE FOR SERVICING",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "LOW ENGINE OIL",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "GENERATOR",
+        "equipment": "GENERATOR"
+    },
+    {
+        "action": "FAULTY COLD ROOM",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "HVAC",
+        "equipment": "COLD ROOM UNIT"
+    },
+    {
+        "action": "REPLACEMENT OF AERATION TANK",
+        "reason": "CORRECTIVE ACTION",
+        "maintenenance": "CORRECTIVE",
+        "category": "WTP",
+        "equipment": "AERATION TANK"
+    },
+    {
+        "action": "ORDER CONNECT SIGNAGE REQUEST",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "RUSTED COLD ROOM WALL",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "HVAC",
+        "equipment": "COLD ROOM UNIT"
+    },
+    {
+        "action": "DEAD INSECT KILLER FLUORESCENT",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "ELECTRICAL",
+        "equipment": "INSECT KILLER BOH"
+    },
+    {
+        "action": "PAINTING OF OFFFICE",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "BUILDING",
+        "equipment": "PAINTING"
+    },
+    {
+        "action": "PEST WORK OUTCOME",
+        "reason": "OTHERS",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "BROKEN TILE AT CARPARK",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "FAULTY SHREDDING MACHINE",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "KITCHEN_EQUIPMENT",
+        "equipment": "SHREDDER"
+    },
+    {
+        "action": "DISPLAY CABINET NOT ATTAINING TEMPERATURE",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "KITCHEN_EQUIPMENT",
+        "equipment": "DISPLAY CABINET"
+    },
+    {
+        "action": "DISPLAY CABINET NOT ATTAINING TEMPERATURE",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "KITCHEN_EQUIPMENT",
+        "equipment": "DISPLAY CABINET"
+    },
+    {
+        "action": "FREEZER ROOM NOT ATTAINING TEMPERATURE",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "HVAC",
+        "equipment": "FREEZER ROOM"
+    },
+    {
+        "action": "WATER TREATMENT SERVICING",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "BUILDING",
+        "equipment": "WATER TREATMENT PLANT BLD"
+    },
+    {
+        "action": "WATER TREATMENT SERVICING",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "BUILDING",
+        "equipment": "WATER TREATMENT PLANT BLD"
+    },
+    {
+        "action": "WATER TREATMENT SERVICING",
+        "reason": "ROUTINE SERVICING",
+        "maintenenance": "PREVENTIVE",
+        "category": "BUILDING",
+        "equipment": "WATER TREATMENT PLANT BLD"
+    },
+    {
+        "action": "AWKA ROAD UNDER GROUND SUMO NOT PUMPING",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "WTP",
+        "equipment": "SUBMERSIBLE PUMP"
+    },
+    {
+        "action": "FAULTY INSECT INSECTOCUTOR BULB/ DEAD LED BULB",
+        "reason": "ELECTRICAL SURGE",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "DISPLAY CABINET NOT ATTAINING TEMPERATURE",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "KITCHEN_EQUIPMENT",
+        "equipment": "DISPLAY CABINET"
+    },
+    {
+        "action": "DEAD INSECTICUTOR BULB IN THE LOBBY",
+        "reason": "ELECTRICAL SURGE",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "DEAD INSECTICUTOR",
+        "reason": "ELECTRICAL SURGE",
+        "maintenenance": "BREAKDOWN",
+        "category": "OTHERS",
+        "equipment": "OTHERS"
+    },
+    {
+        "action": "BROKEN WALL AND FLOOR TILES IN THE LOBBY,KITCHEN, LOBBY ENTRANCE AND DISCOLOURED FLOOR TILES IN THE LOBBY",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "BUILDING",
+        "equipment": "WALL"
+    },
+    {
+        "action": "FAULTY/NOISY ROTISSERIE MACHINE",
+        "reason": "WEAR & TEAR",
+        "maintenenance": "BREAKDOWN",
+        "category": "KITCHEN_EQUIPMENT",
+        "equipment": "ROTISSIERI MACHINE"
+    }
+]

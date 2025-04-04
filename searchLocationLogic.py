@@ -2,7 +2,7 @@ import re
 import json
 # Sample locations (as per your example)
 
-with open("locations.json", 'r') as file:
+with open("location/locations.json", 'r') as file:
     locations = json.load(file)  # Load JSON content into a Python dictionary
 
 
@@ -131,10 +131,44 @@ for locationDict in locations:
     else:
         pass
         # print(locationDict['full_location_name'])
+
+
+
+
     
-for sd in listOfStuff:
-    match = sd['compiled_pattern'].search("CR oniru ")
-    if match:
-        print("match",sd['full_location_name'])
-    
-    
+def search_through_locations_provided(search_query:str)->str|None:    
+
+    import os
+    for sd in listOfStuff:
+        match = sd['compiled_pattern'].search(search_query)
+        if match:
+            print("match",sd['full_location_name'])
+            return sd['full_location_name']
+            
+        
+        
+    from itertools import product    
+    words = search_query.split(sep=" ")
+    locations = [listOflocations['full_location_name'] for listOflocations  in listOfStuff ]
+    cartesian_product_of_locations_and_words = list(product(words,locations))
+
+    for word,location  in cartesian_product_of_locations_and_words:
+        if word in location:
+            print("match found ",word,"---",location)
+            return location
+        elif word.upper() in location:
+            print("match found word.in upper:",word,"---",location)
+            return location
+        else: 
+            print("no match found for search query:",search_query)
+            return None
+            
+        
+        
+        
+        
+        
+        
+        
+        
+

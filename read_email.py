@@ -83,5 +83,5 @@ for email_id in email_ids:
 # Logout
 mail.logout()
 
-with open('email.json', 'w') as json_file:
+with open('email/email.json', 'w') as json_file:
     json.dump(email_content,json_file)

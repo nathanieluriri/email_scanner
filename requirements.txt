@@ -5,3 +5,10 @@ Pillow
 pydantic
 openpyxl
 pandas
+torch
+datasets
+transformers
+sentencepiece
+transformers[torch]
+protobuf
+huggingface_hub[hf_xet]
