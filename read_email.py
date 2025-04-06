@@ -8,7 +8,7 @@ to_pattern = r"To:\s*(.*)"
 sent_pattern = r"Sent:\s*(.*)"
 subject_pattern = r"Subject:\s*(.*)"
 Cc_pattern = r"Cc:\s*(.*)"
-password = "Nathanie101!"  # Avoid hardcoding passwords
+password = "Nathanie101!"  
 username = "nat@uriri.com.ng"
 host = "imap.hostinger.com"
 
