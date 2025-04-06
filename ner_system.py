@@ -23,8 +23,6 @@ class NerStore(BaseModel):
     """
     possible_location_texts: List[PossibleLocation] = Field(..., description="The text contents to be analyzed to find locations.")
     action_texts:List[str] = Field(..., description="The text contents to be analyzed to find action, reason, maintenance, category, equipment.")
-    location_match:Optional[List]=[]
-    action_match:Optional[List]=[]
     extracted_data:Optional[List]=[]
     
     @model_validator(mode='before')
@@ -53,35 +51,6 @@ class NerStore(BaseModel):
             
             match_value.append({"predicted_reason":action_matches,"location":location_matches})
             values['extracted_data']= match_value
-        
-            
-        
-        
-        # for text in location_text_contents:
-        #     locations_to_search = [
-        #         text.primaryLocation,
-        #         text.PrimaryFallbackLocation,
-        #         text.SecondaryFallbackLocation,
-        #         text.TetiaryFallbackLocation
-        #     ]
-
-        #     location_matches = next(
-        #         (search_through_locations_provided(search_query=loc) 
-        #         for loc in locations_to_search if search_through_locations_provided(search_query=loc) is not None),
-        #         None
-        #     )
-            
-        #     if location_matches:    
-        #         match_value =  values.get('location_match',[])
-        #         match_value.append({"text":text,"location":location_matches})
-        #         values['location_match']= match_value
-        
-        # for action in action_text_contents:
-        #     action_matches = predict_reason(action_text=action)
-        #     if action_matches:
-        #         action_match_value = values.get('action_match',[])
-        #         action_match_value.append({"text":action,"action_matches":action_matches})
-        #         values['action_match']=action_match_value
         return values
 
 
