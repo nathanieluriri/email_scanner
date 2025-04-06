@@ -3,7 +3,7 @@ def predict_reason(action_text):
     import json
     prediction=None
     action_text= ' '.join(action_text.split())
-    with open('training-data.json','r') as file:
+    with open(r'./finetuning/training-data.json','r') as file:
         data_store= json.load(file)
         
     for data in data_store:
@@ -14,7 +14,7 @@ def predict_reason(action_text):
     if prediction==None:
         from transformers import T5Tokenizer, T5ForConditionalGeneration
         # Load the fine-tuned model and tokenizer
-        model_name = "./t5_finetuned"  # Path to your saved model
+        model_name = r"./finetuning/t5_finetuned"  # Path to your saved model
         tokenizer = T5Tokenizer.from_pretrained(model_name)
         model = T5ForConditionalGeneration.from_pretrained(model_name)
 
