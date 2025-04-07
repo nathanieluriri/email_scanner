@@ -13,3 +13,4 @@ transformers[torch]
 protobuf
 huggingface_hub[hf_xet]
 tqdm 
+xlsxwriter

@@ -1,16 +1,12 @@
-subject -                                action/task   
-from cr -                                store
-subject + AI -                           reason for breakdown
-subject + AI + AI -                      maintainance category 
-subject + AI -                           specific equipment
-AI +specific equipement + subject -      category
-sent -                                   request date
-
-                                        date shared by help desk
+before you start anything set up virtual environment
+command to setup virtual environment - python -m venv venv
 
 
 
-email shouldn't use 
-from foodconcept or chicken or 
-pieexpress and technicians can be 
-considered responsible -                                     responsible
+Firstly install requirements
+command to install requirements - pip install -r requirements.txt
+
+secondly run the main.py file 
+command to run the main.py file - python main.py
+
+you should see the stuff in the cmd line
