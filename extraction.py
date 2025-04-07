@@ -18,6 +18,6 @@ def extract_email_data_into_object():
         extracted_possible_location.append(PossibleLocation(primaryLocation=thread_group[-1]['from'],PrimaryFallbackLocation=thread_group[0]['to'],SecondaryFallbackLocation=thread_group[0].get('cc',""),TetiaryFallbackLocation=thread_group[0]['subject']))
         
             
-            
+
     extracted_data=NerStore( sent_date_texts=extracted_sent_date,action_texts=extracted_action_text,possible_location_texts=extracted_possible_location)
     return extracted_data.extracted_data

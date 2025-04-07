@@ -1,5 +1,10 @@
 from tqdm import tqdm
 import pandas as pd
+import pandas as pd
+from openpyxl import load_workbook
+from tqdm import tqdm
+import os
+
 def get_current_date_and_time():
     
     
@@ -32,8 +37,7 @@ def get_current_date_and_time():
     
     return formatted_now
     
-    
-    
+
 def save_sheet(unFlatteneddata):
     da=[]
     for index,flattenData in tqdm(enumerate(unFlatteneddata),desc="Flattening Extracted data ",total=len(unFlatteneddata),unit="Field"):
@@ -48,8 +52,9 @@ def save_sheet(unFlatteneddata):
 
     df = pd.DataFrame(data, columns=columns)
 
-    output_file = "Maintenance_Report.xlsx"
+    
     sheetName=get_current_date_and_time()
+    output_file = f"Maintenance_Report{sheetName}.xlsx"
     with pd.ExcelWriter(output_file, engine='xlsxwriter') as writer:
         df.to_excel(writer, sheet_name=sheetName, index=False)
         
@@ -81,5 +86,4 @@ def save_sheet(unFlatteneddata):
 
         # Add autofilter
         worksheet.autofilter(0, 0, len(df), len(df.columns) - 1)
-
-
+    print(f"Saved in {output_file}")

@@ -22,18 +22,23 @@ class NerStore(BaseModel):
     A Pydantic model to hold text content and check for the presence of emails.
     """
     possible_location_texts: List[PossibleLocation] = Field(..., description="The text contents to be analyzed to find locations.")
-    sent_date_texts:List[str] = Field(..., description="The text contents for request date.")
-    action_texts:List[str] = Field(..., description="The text contents to be analyzed to find action, reason, maintenance, category, equipment.")
+    sent_date_texts:List = Field(..., description="The text contents for request date.")
+    action_texts:List = Field(..., description="The text contents to be analyzed to find action, reason, maintenance, category, equipment.")
     extracted_data:Optional[List]=[]
     
     @model_validator(mode='before')
     def checkMatch(cls, values):
         
         location_text_contents = values.get('possible_location_texts', [PossibleLocation(primaryLocation="",PrimaryFallbackLocation="",SecondaryFallbackLocation="",TetiaryFallbackLocation="")])
-        action_text_contents = values.get('action_texts',[''])
-        request_date = values.get('sent_date_texts',[''])
+        action_text_contents = values.get('action_texts', [''])
+        request_date = values.get('sent_date_texts', [''])
+        max_length = max(len(location_text_contents), len(action_text_contents), len(request_date))
+        location_text_contents += [PossibleLocation(primaryLocation="",PrimaryFallbackLocation="",SecondaryFallbackLocation="",TetiaryFallbackLocation="")] * (max_length - len(location_text_contents))
+        action_text_contents += [''] * (max_length - len(action_text_contents))
+        request_date += [''] * (max_length - len(request_date))
         
-        for index,(location_text_extract,action_text_extract,request_date_extract) in tqdm(enumerate(zip(location_text_contents,action_text_contents,request_date)),desc="Running Named Entity Recognition System ",unit="field",total=len(request_date)):
+        
+        for index, (location_text_extract, action_text_extract, request_date_extract) in tqdm(enumerate(zip(location_text_contents, action_text_contents, request_date)), desc="Running Named Entity Recognition System ", unit="field", total=max_length):
             locations_to_search = [
                 location_text_extract.primaryLocation,
                 location_text_extract.PrimaryFallbackLocation,
@@ -47,12 +52,13 @@ class NerStore(BaseModel):
                 None
             )
             match_value =  values.get('extracted_data',[])
-            
-            action_matches = predict_reason(action_text=action_text_extract)
-            
-            match_value.append({"request_date":request_date_extract,"predicted_reason":action_matches,"location":location_matches})
-            values['extracted_data']= match_value
-            
+            try:
+                action_matches = predict_reason(action_text=action_text_extract)
+                
+                match_value.append({"request_date":request_date_extract,"predicted_reason":action_matches,"location":location_matches})
+                values['extracted_data']= match_value
+            except Exception as e:
+                print(f"Error occurced: {e} {action_text_extract}")
         print("✅ Done extracting data with NER system")
         return values
 
