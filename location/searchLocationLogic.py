@@ -142,7 +142,7 @@ def search_through_locations_provided(search_query:str)->str|None:
     for sd in listOfStuff:
         match = sd['compiled_pattern'].search(search_query)
         if match:
-            print("match",sd['full_location_name'])
+            # print("match",sd['full_location_name'])
             return sd['full_location_name']
             
         
@@ -154,14 +154,15 @@ def search_through_locations_provided(search_query:str)->str|None:
 
     for word,location  in cartesian_product_of_locations_and_words:
         if word in location:
-            print("match found ",word,"---",location)
+            # print("match found ",word,"---",location)
             return location
         elif word.upper() in location:
-            print("match found word.in upper:",word,"---",location)
+            # print("match found word.in upper:",word,"---",location)
             return location
         else: 
-            print("no match found for search query:",search_query)
-            return None
+            # print("no match found for search query:",search_query)
+            pass
+    return None
             
         
         
@@ -172,3 +173,7 @@ def search_through_locations_provided(search_query:str)->str|None:
         
         
 
+# loc=search_through_locations_provided(search_query="CR OGUNLANA")
+# print(loc)
+
+# debug with python -m location.searchLocationLogic

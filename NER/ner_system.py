@@ -4,9 +4,9 @@ import json
 from pydantic import BaseModel, Field,model_validator
 from typing import List, Optional
 from typing_extensions import Self
-from searchLocationLogic import search_through_locations_provided
 from finetuning.make_prediction import predict_reason
-
+from location.searchLocationLogic import search_through_locations_provided
+from tqdm import tqdm
 with open("location/locations.json", 'r') as file:
     location_data = json.load(file)  # Load JSON content into a Python dictionary
 
@@ -22,6 +22,7 @@ class NerStore(BaseModel):
     A Pydantic model to hold text content and check for the presence of emails.
     """
     possible_location_texts: List[PossibleLocation] = Field(..., description="The text contents to be analyzed to find locations.")
+    sent_date_texts:List[str] = Field(..., description="The text contents for request date.")
     action_texts:List[str] = Field(..., description="The text contents to be analyzed to find action, reason, maintenance, category, equipment.")
     extracted_data:Optional[List]=[]
     
@@ -30,9 +31,9 @@ class NerStore(BaseModel):
         
         location_text_contents = values.get('possible_location_texts', [PossibleLocation(primaryLocation="",PrimaryFallbackLocation="",SecondaryFallbackLocation="",TetiaryFallbackLocation="")])
         action_text_contents = values.get('action_texts',[''])
+        request_date = values.get('sent_date_texts',[''])
         
-        
-        for index,(location_text_extract,action_text_extract) in enumerate(zip(location_text_contents,action_text_contents)):
+        for index,(location_text_extract,action_text_extract,request_date_extract) in tqdm(enumerate(zip(location_text_contents,action_text_contents,request_date)),desc="Running Named Entity Recognition System ",unit="field",total=len(request_date)):
             locations_to_search = [
                 location_text_extract.primaryLocation,
                 location_text_extract.PrimaryFallbackLocation,
@@ -49,8 +50,10 @@ class NerStore(BaseModel):
             
             action_matches = predict_reason(action_text=action_text_extract)
             
-            match_value.append({"predicted_reason":action_matches,"location":location_matches})
+            match_value.append({"request_date":request_date_extract,"predicted_reason":action_matches,"location":location_matches})
             values['extracted_data']= match_value
+            
+        print("✅ Done extracting data with NER system")
         return values
 
 
@@ -69,10 +72,13 @@ class NerStore(BaseModel):
 
 
 # system = NerStore(
+#     sent_date_texts=["sas","saaa"],
 #     action_texts=["FAULTY GENERATOR ONIRU PPU","QUOTATION FOR INSTALLATION OF DOUBLE MATT ENTERING SLAPS AT CR OKIGWE ROAD, OWERRI."],
 #     possible_location_texts=[PossibleLocation(primaryLocation="CR Yakubugowon <yakubugowon@chicken-republic.com>; Olaniyi Ojo <olaniyi@foodconceptsplc.com>; Inioluwa Okeowo <inioluwa@foodconceptsplc.com>",PrimaryFallbackLocation="CR Yakubugowon\r",SecondaryFallbackLocation="",TetiaryFallbackLocation=""),
 # PossibleLocation(primaryLocation="CR Akowonjo <akowonjo@chicken-republic.com>;",PrimaryFallbackLocation=" CR. Abule Egba <abule-egba@chicken-republic.com>;",SecondaryFallbackLocation="CR. Ireakari <ireakari@chicken-republic.com>;",TetiaryFallbackLocation="CR Okota <okota@chicken-republic.com>; ")                                           ])
 
 
 
-# print(system.extracted_data)
+# pprint.pprint(system.extracted_data)
+
+# debug with python -m NER.ner_system
