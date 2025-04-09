@@ -6,11 +6,13 @@ from typing import List, Optional
 from typing_extensions import Self
 from finetuning.make_prediction import predict_reason
 from location.searchLocationLogic import search_through_locations_provided
+from utils import get_current_date_and_time
 from tqdm import tqdm
 with open("location/locations.json", 'r') as file:
-    location_data = json.load(file)  # Load JSON content into a Python dictionary
+    location_data = json.load(file)  
 
-
+with open("emailll/email.json",'r') as file:
+    email_data = json.load(file)
 
 class PossibleLocation(BaseModel):
     primaryLocation:str
@@ -28,7 +30,7 @@ class NerStore(BaseModel):
     
     @model_validator(mode='before')
     def checkMatch(cls, values):
-        
+        failures=[]
         location_text_contents = values.get('possible_location_texts', [PossibleLocation(primaryLocation="",PrimaryFallbackLocation="",SecondaryFallbackLocation="",TetiaryFallbackLocation="")])
         action_text_contents = values.get('action_texts', [''])
         request_date = values.get('sent_date_texts', [''])
@@ -58,8 +60,17 @@ class NerStore(BaseModel):
                 match_value.append({"request_date":request_date_extract,"predicted_reason":action_matches,"location":location_matches})
                 values['extracted_data']= match_value
             except Exception as e:
-                print(f"Error occurced: {e} {action_text_extract}")
+                for email in email_data:
+                    if email['thread_group_name']==action_text_extract:
+                        failures.append(email)
         print("✅ Done extracting data with NER system")
+        if len(failures)>=1:
+            today = get_current_date_and_time()
+            to= today.split(".")
+            today = '_'.join(to)
+            with open(f"Failures/{today}.json",'w') as file:
+                json.dump(failures,file,indent=4)
+                print("Saved The ones that failed to be extracted too")
         return values
 
 

@@ -54,7 +54,12 @@ def save_sheet(unFlatteneddata):
 
     
     sheetName=get_current_date_and_time()
-    output_file = f"Maintenance_Report{sheetName}.xlsx"
+    if len(sheetName)>=31:
+        sa =sheetName
+        s = sa.split('.')
+        s[0]= s[0][0:3]
+        sheetName= ".".join(s)
+    output_file = f"OUTPUTS/Maintenance_Report{sheetName}.xlsx"
     with pd.ExcelWriter(output_file, engine='xlsxwriter') as writer:
         df.to_excel(writer, sheet_name=sheetName, index=False)
         
