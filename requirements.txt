@@ -14,3 +14,4 @@ protobuf
 huggingface_hub[hf_xet]
 tqdm 
 xlsxwriter
+rich

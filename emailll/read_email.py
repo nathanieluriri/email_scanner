@@ -1,6 +1,8 @@
 import os
 from dotenv import load_dotenv
 import email
+from rich import print
+from pathlib import Path
 import imaplib
 from bs4 import BeautifulSoup
 import re
@@ -79,7 +81,9 @@ def read_this_email():
 
     with open('emailll/email.json', 'w') as json_file:
         json.dump(email_content, json_file, indent=4)
-        print("✅ Done extracting and saving emails")
+    email_path =  Path(f"emailll/email.json").resolve()
+    print("✅ [bold green]Succesfully extracted and saved emails[/bold green] ")
+    print(f"📂 [bold green]Check the saved emails here[/bold green]: [bold blue]emailll/email.json[/bold blue]")
 
         
         
