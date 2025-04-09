@@ -68,7 +68,7 @@ class NerStore(BaseModel):
             today = get_current_date_and_time()
             to= today.split(".")
             today = '_'.join(to)
-            with open(f"Failures/{today}.json",'w') as file:
+            with open(f"emailll/Failures/{today}.json",'w') as file:
                 json.dump(failures,file,indent=4)
                 print("Saved The ones that failed to be extracted too")
         return values
