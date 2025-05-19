@@ -5,7 +5,7 @@ from openpyxl import load_workbook
 from tqdm import tqdm
 import os
 from rich import print
-from NER.ner_system import NerStore, PossibleLocation
+from NER.ner_system import NERSTORE, PossibleLocation
 import json
 
 
@@ -60,7 +60,7 @@ def extract_email_data_into_object():
         
             
 
-    extracted_data=NerStore( sent_date_texts=extracted_sent_date,action_texts=extracted_action_text,possible_location_texts=extracted_possible_location)
+    extracted_data=NERSTORE( sent_date_texts=extracted_sent_date,action_texts=extracted_action_text,possible_location_texts=extracted_possible_location)
     return extracted_data.extracted_data
 
 

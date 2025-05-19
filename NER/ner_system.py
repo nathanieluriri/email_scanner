@@ -51,7 +51,7 @@ class PossibleLocation(BaseModel):
     PrimaryFallbackLocation:str
     SecondaryFallbackLocation:str
     TetiaryFallbackLocation:str
-class NerStore(BaseModel):
+class NERSTORE(BaseModel):
     """
     A Pydantic model to hold text content and check for the presence of emails.
     """
@@ -119,11 +119,10 @@ class NerStore(BaseModel):
 
 
 
-
 # ["CR Yakubugowon <yakubugowon@chicken-republic.com>; Olaniyi Ojo <olaniyi@foodconceptsplc.com>; Inioluwa Okeowo <inioluwa@foodconceptsplc.com>","CR Yakubugowon\r","CR Akowonjo <akowonjo@chicken-republic.com>; CR. Abule Egba <abule-egba@chicken-republic.com>; CR Gbagada <gbagada@chicken-republic.com>; CR. Ireakari <ireakari@chicken-republic.com>; CR Okota <okota@chicken-republic.com>; CR okeafa <okeafa@chicken-republic.com>;\r"]
 
 
-# system = NerStore(
+# system = NERSTORE(
 #     sent_date_texts=["sas","saaa"],
 #     action_texts=["FAULTY GENERATOR ONIRU PPU","QUOTATION FOR INSTALLATION OF DOUBLE MATT ENTERING SLAPS AT CR OKIGWE ROAD, OWERRI."],
 #     possible_location_texts=[PossibleLocation(primaryLocation="CR Yakubugowon <yakubugowon@chicken-republic.com>; Olaniyi Ojo <olaniyi@foodconceptsplc.com>; Inioluwa Okeowo <inioluwa@foodconceptsplc.com>",PrimaryFallbackLocation="CR Yakubugowon\r",SecondaryFallbackLocation="",TetiaryFallbackLocation=""),
